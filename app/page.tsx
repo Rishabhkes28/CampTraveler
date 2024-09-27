@@ -8,9 +8,9 @@ import GetApp from "@/Components/GetApp";
 export default function Home() {
   return (
     <div>
-    <GetApp/>
-     <Hero/>
-     <Camp/>
+      <Hero/>
+      <GetApp/>
+      <Camp/>
      <Guide/>
      <Feature/>
 
