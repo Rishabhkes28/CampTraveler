@@ -1,9 +1,9 @@
-import Camp from "@/Components/Camp";
-import Guide from "@/Components/Guide";
-import Hero from "@/Components/Hero";
-import Feature  from "@/Components/Feature";
+import Camp from "@/components/Camp";
+import Guide from "@/components/Guide";
+import Hero from "@/components/Hero";
+import Feature  from "@/components/Feature";
 import Image from "next/image";
-import GetApp from "@/Components/GetApp";
+import GetApp from "@/components/GetApp";
 
 export default function Home() {
   return (
@@ -13,6 +13,7 @@ export default function Home() {
      <Guide/>
      <Feature/>
      <GetApp/>
+     
      
 
     </div>
