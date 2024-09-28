@@ -10,9 +10,10 @@ export default function Home() {
     <div>
       <Hero/>
       <Camp/>
-      <GetApp/>
      <Guide/>
      <Feature/>
+     <GetApp/>
+     
 
     </div>
   );
