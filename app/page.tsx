@@ -1,9 +1,9 @@
-import Camp from "@/components/Camp";
-import Guide from "@/components/Guide";
-import Hero from "@/components/Hero";
-import Feature  from "@/components/Feature";
+import Camp from "@/Components/Camp";
+import Guide from "@/Components/Guide";
+import Hero from "@/Components/Hero";
+import Feature  from "@/Components/Feature";
 import Image from "next/image";
-import GetApp from "@/components/GetApp";
+import GetApp from "@/Components/GetApp";
 
 export default function Home() {
   return (
