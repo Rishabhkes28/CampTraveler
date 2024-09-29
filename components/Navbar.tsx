@@ -1,7 +1,7 @@
 import {NAV_LINKS } from "../Constants";
 import Image from "next/image";
 import Link from "next/link";
-import Button from "./Button";
+import Button from '@/Components/Button';
 
 const NavBar = () => {
   return (

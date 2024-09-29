@@ -1,5 +1,5 @@
 
-import Button from './Button'
+import Button from '@/Components/Button'
 import Image from 'next/image'
 
 interface ButtonProps {
